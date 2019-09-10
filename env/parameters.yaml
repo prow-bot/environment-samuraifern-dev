@@ -1,0 +1,10 @@
+adminUser:
+  password: local:samuraifern/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: wbrefvem+prow-bot@gmail.com
+  token: local:samuraifern/pipelineUser:token
+  username: prow-bot
+prow:
+  hmacToken: local:samuraifern/prow:hmacToken
